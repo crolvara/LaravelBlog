@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="">
-    <script src="https://cdn.tailwindcss.com"></script> <!-- Тук се слага скрипта на фреймуорка -->
+    @vite(['resources/js/app.js'])
 </head>
 
 <body class="h-full">
